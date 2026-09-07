@@ -6,6 +6,6 @@
 - SVG labels and link buttons: local, static presentation assets. No visitor tracker, external statistics service or scheduled workflow is needed.
 - `profile-typing.svg`: original, self-contained CSS/SVG typing animation inspired by the profile README patterns in Rahul Jain's generator and DenverCoder1/readme-typing-svg. No code or assets copied from either project. It honors reduced-motion preferences and makes no remote requests.
 - `roberp-product.svg`: original editorial illustration shared with the portfolio, depicting planning and a company selector. Fictional interface, not an actual ROBERP screenshot.
-- `tool-*.svg`: original local text badges, inspired by the categorized toolkit patterns in Rahul Jain's profile generator. They are not vendor logos, certifications or proficiency ratings. No external badge service is used.
+- `stack/*.svg`: technology logos from Devicon (MIT), with unchanged artwork on neutral presentation tiles. See [sources and license](stack/SOURCES.md). These replace the original text-only toolkit badges; they identify tools, not certifications or proficiency ratings.
 
 Product screenshots are illustrative snapshots; follow the linked repositories and case studies for current scope and limitations.
