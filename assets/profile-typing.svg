@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="84" viewBox="0 0 760 84" style="max-width:100%;height:auto" role="img" aria-labelledby="title desc">
+  <title id="title">Full-stack development. AI-assisted workflows. Ideas into useful products.</title>
+  <desc id="desc">Three short lines appear with a typing effect. A static full-stack label is shown when reduced motion is preferred.</desc>
+  <style>
+    text {font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:36px;font-weight:500;fill:#edc7b1}
+    .line {opacity:0;animation:type-line 18s steps(26,end) infinite;clip-path:inset(0 100% 0 0)}
+    .two {animation-delay:6s}.three {animation-delay:12s}
+    .static {opacity:0}
+    @keyframes type-line {0%{opacity:1;clip-path:inset(0 100% 0 0)}12%{opacity:1;clip-path:inset(0 0 0 0)}27%{opacity:1;clip-path:inset(0 0 0 0)}32%{opacity:1;clip-path:inset(0 100% 0 0)}33.333%,100%{opacity:0;clip-path:inset(0 100% 0 0)}}
+    @media(prefers-reduced-motion:reduce){.line{animation:none;opacity:0}.static{opacity:1}}
+  </style>
+  <rect width="760" height="84" rx="12" fill="#182332"/>
+  <text class="static" x="380" y="54" text-anchor="middle">Full-stack development</text>
+  <g class="line"><text x="380" y="54" text-anchor="middle">Full-stack development</text></g>
+  <g class="line two"><text x="380" y="54" text-anchor="middle">AI-assisted workflows</text></g>
+  <g class="line three"><text x="380" y="54" text-anchor="middle">Ideas into useful products</text></g>
+</svg>

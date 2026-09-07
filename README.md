@@ -3,6 +3,10 @@
 </a>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/profile-typing.svg" width="760" alt="Full-stack development · AI-assisted workflows · Ideas into useful products" />
+</p>
+
+<p align="center">
   <a href="https://minhhieu04.github.io/"><strong>PORTFOLIO</strong></a> &nbsp; / &nbsp;
   <a href="https://minhhieu04.github.io/Tran-Minh-Hieu-CV.pdf"><strong>RÉSUMÉ</strong></a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/minh-hieu-tran-8bb70a252/"><strong>LINKEDIN</strong></a> &nbsp; / &nbsp;
@@ -13,7 +17,7 @@
 
 Hi, I’m **Hiếu**, a builder based in **Da Nang, Vietnam**. I connect people, ideas and technology to make everyday work a little better — through digital products, useful workflows and thoughtful experiments.
 
-My experience spans software delivery and business workflows; my interests go beyond one job title. I enjoy understanding a problem, making something tangible, and improving it through testing and feedback.
+I work across **frontend and backend**: shaping interfaces, connecting APIs and making business workflows work in practice. My interests go beyond one job title — I enjoy understanding a problem, making something tangible, and improving it through testing and feedback.
 
 <p>
   <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/digital-products.svg" height="30" alt="Digital products" />
@@ -46,7 +50,19 @@ My experience spans software delivery and business workflows; my interests go be
 </tr>
 </table>
 
-**More than public repositories.** My portfolio also covers team contributions to [ROBERP](https://minhhieu04.github.io/#project-roberp), [GL Lifestyle](https://minhhieu04.github.io/#project-gl) and [GDOS](https://minhhieu04.github.io/#project-gdos): business workflows, community services and property operations. Scope and contribution are explained without sharing private code or customer data.
+## Built with teams
+
+### ROBERP · Frontend & backend
+
+Business-management software for **French companies and associations**. HR, planning, documents, purchasing, billing and day-to-day operations come together in a platform with company-specific configuration and data scope.
+
+I contribute to **React/Apollo interfaces and Django/GraphQL business logic** — including roles and permissions, document templates, task workflows and responsive UI improvements.
+
+<p align="center"><a href="https://minhhieu04.github.io/#project-roberp"><img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/roberp-workspaces.svg" width="660" alt="Conceptual illustration: separate company workspaces on the shared ROBERP platform. Fictional companies, not an internal screenshot." /></a></p>
+
+[Explore the ROBERP case study →](https://minhhieu04.github.io/#project-roberp)
+
+**Also in my portfolio:** [GL Lifestyle+](https://minhhieu04.github.io/#project-gl), Gamuda Land’s app for buyers and residents, and [GDOS](https://minhhieu04.github.io/#project-gdos), property defect and handover workflows. My contribution to these products is backend-focused. Private source and customer data stay private.
 
 ## What I bring
 
@@ -56,18 +72,14 @@ My experience spans software delivery and business workflows; my interests go be
 
 **03 — Improve.** Test the behavior, listen to feedback and make small, verifiable improvements.
 
-<details>
-<summary><strong>The technical toolkit</strong></summary>
+## Tools I work with
 
-<br />
+| Interfaces | Services & data | Delivery |
+| --- | --- | --- |
+| React · JavaScript · TypeScript | Python · Django · Node.js · NestJS | Git · API integration |
+| HTML · CSS · Responsive UI | GraphQL · REST · PostgreSQL · Redis | Testing · AI-assisted development |
 
-**Interfaces** — React, TypeScript, HTML, CSS<br />
-**Services & workflows** — Node.js, NestJS, Python, Django, REST, GraphQL<br />
-**Working style** — practical AI-assisted development, clear communication and verification
-
-These are tools I use, not a claim to be an expert in every area. I care about choosing what fits the problem and being clear about what I’m still learning.
-
-</details>
+I choose tools around the problem and keep learning as I go.
 
 ---
 
@@ -82,7 +94,7 @@ Open to **roles, projects and new domains** where curiosity, adaptability and pr
 <details>
 <summary>Đôi dòng bằng tiếng Việt</summary>
 
-Mình là Hiếu, hiện ở Đà Nẵng. Mình thích tìm hiểu vấn đề, kết nối con người với công nghệ và biến ý tưởng thành những thứ có ích. Mình có kinh nghiệm về phần mềm và quy trình công việc, đồng thời sẵn sàng học thêm để làm ở nhiều vai trò, ngành nghề khác nhau.
+Mình là Hiếu, hiện ở Đà Nẵng. Mình làm cả frontend và backend, thích tìm hiểu vấn đề và biến ý tưởng thành những thứ có ích. Với ROBERP — phần mềm quản lý doanh nghiệp cho thị trường Pháp — mình tham gia cả giao diện React/Apollo và nghiệp vụ Django/GraphQL. Mình cũng sẵn sàng học thêm để làm ở nhiều vai trò, ngành nghề khác nhau.
 
 [Xem portfolio và CV](https://minhhieu04.github.io/) · [Liên hệ với mình](mailto:minhhieu.tran.mcs@gmail.com)
 
