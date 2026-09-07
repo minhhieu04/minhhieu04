@@ -50,9 +50,11 @@ My experience spans software delivery and business workflows; my interests go be
 
 ## What I bring
 
-| Understand | Make | Improve |
-| :--- | :--- | :--- |
-| Ask clear questions. Learn the domain. Connect requirements to people’s needs. | Move between interfaces, services and automation to build something useful. | Test the behavior, listen to feedback and make small, verifiable improvements. |
+**01 — Understand.** Ask clear questions. Learn the domain. Connect requirements to people’s needs.
+
+**02 — Make.** Move between interfaces, services and automation to build something useful.
+
+**03 — Improve.** Test the behavior, listen to feedback and make small, verifiable improvements.
 
 <details>
 <summary><strong>The technical toolkit</strong></summary>
