@@ -3,7 +3,7 @@
 Source: [Devicon](https://github.com/devicons/devicon), commit `7330accdbc47e2dc0c19789a48533c4a3c50fe58`.
 License: MIT; see [LICENSE](LICENSE). Logos and trademarks belong to their respective owners. Their use identifies technologies, not endorsements, certifications or proficiency levels.
 
-Logo shapes and colors are unchanged. Each SVG is inset into a 48px neutral presentation tile for consistent light/dark-background contrast. No scripts, remote icon service or tracking is used.
+Logo geometry is retained inside compact 30px-high, dark logo-and-name labels. Low-contrast Django/MySQL fills are lightened for readability; other brand colors are retained. No scripts, remote icon service or tracking is used.
 
 - [React](https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg)
 - [JavaScript](https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg)

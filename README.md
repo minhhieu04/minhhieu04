@@ -74,40 +74,30 @@ I contribute to **React/Apollo interfaces and Django/GraphQL business logic** â€
 
 ## Tools I work with
 
-<p><strong>Frontend</strong></p>
 <p>
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/react.svg" width="48" height="48" alt="React" title="React" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/javascript.svg" width="48" height="48" alt="JavaScript" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/typescript.svg" width="48" height="48" alt="TypeScript" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/html5.svg" width="48" height="48" alt="HTML5" title="HTML5" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/css3.svg" width="48" height="48" alt="CSS3" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/react.svg" width="79" height="30" alt="React" title="React" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/javascript.svg" width="114" height="30" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/typescript.svg" width="114" height="30" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/html5.svg" width="79" height="30" alt="HTML5" title="HTML5" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/css3.svg" width="72" height="30" alt="CSS3" title="CSS3" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/python.svg" width="86" height="30" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/django.svg" width="86" height="30" alt="Django" title="Django" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/nodejs.svg" width="93" height="30" alt="Node.js" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/nestjs.svg" width="86" height="30" alt="NestJS" title="NestJS" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/graphql.svg" width="93" height="30" alt="GraphQL" title="GraphQL" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/postgresql.svg" width="114" height="30" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/mysql.svg" width="79" height="30" alt="MySQL" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/mongodb.svg" width="93" height="30" alt="MongoDB" title="MongoDB" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/redis.svg" width="79" height="30" alt="Redis" title="Redis" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/docker.svg" width="86" height="30" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/kubernetes.svg" width="114" height="30" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/nginx.svg" width="79" height="30" alt="Nginx" title="Nginx" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/jenkins.svg" width="93" height="30" alt="Jenkins" title="Jenkins" />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/labels/git.svg" width="65" height="30" alt="Git" title="Git" />
 </p>
 
-<p><strong>Backend</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/python.svg" width="48" height="48" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/django.svg" width="48" height="48" alt="Django" title="Django" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/nodejs.svg" width="48" height="48" alt="Node.js" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/nestjs.svg" width="48" height="48" alt="NestJS" title="NestJS" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/graphql.svg" width="48" height="48" alt="GraphQL" title="GraphQL" />
-</p>
-
-<p><strong>Data</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/mysql.svg" width="48" height="48" alt="MySQL" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/mongodb.svg" width="48" height="48" alt="MongoDB" title="MongoDB" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/redis.svg" width="48" height="48" alt="Redis" title="Redis" />
-</p>
-
-<p><strong>Delivery</strong></p>
-<p>
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/docker.svg" width="48" height="48" alt="Docker" title="Docker" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/kubernetes.svg" width="48" height="48" alt="Kubernetes" title="Kubernetes" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/nginx.svg" width="48" height="48" alt="Nginx" title="Nginx" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/jenkins.svg" width="48" height="48" alt="Jenkins" title="Jenkins" />
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/stack/git.svg" width="48" height="48" alt="Git" title="Git" />
-</p>
+<details>
+<summary><strong>How I use this toolkit</strong></summary>
 
 | Area | Toolkit & practical context |
 | --- | --- |
@@ -118,6 +108,8 @@ I contribute to **React/Apollo interfaces and Django/GraphQL business logic** â€
 | **Integration & quality** | API integration, SFTP file-transfer workflows, testing and AI-assisted development. |
 
 My strongest experience is in application development, complemented by working familiarity with infrastructure and delivery. The context above reflects how I use each part of the toolkit.
+
+</details>
 
 ---
 
