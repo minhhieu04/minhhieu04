@@ -1,14 +1,18 @@
 # Hi, I’m Hiếu.
 
-### Backend depth. Product perspective.
+### Ideas into useful things.
 
-I’m a software engineer interested in turning complex workflows into clear, useful software. My professional foundation is backend development, and I also build web interfaces with React and TypeScript.
+I’m a curious builder interested in how people, ideas and technology come together. My experience includes software, everyday business workflows and personal projects in learning and accessibility.
+
+I enjoy understanding a problem, making something tangible, and improving it through testing and feedback. I’m open to different roles and industries where curiosity, clear communication and practical problem-solving are useful.
+
+**[Explore my portfolio →](https://minhhieu04.github.io/)**
 
 ## What I work with
 
-**Backend:** Node.js, NestJS, Python, Django, APIs and background jobs.  
-**Frontend:** React and TypeScript.  
-**How I work:** readable code, small verifiable changes and practical AI-assisted development.
+**Digital products:** web interfaces, APIs and useful workflows with React, TypeScript, Node.js and Python.  
+**AI & automation:** practical experiments, service integrations and checking the output.  
+**How I work:** learn the context, communicate clearly, and make small, verifiable improvements.
 
 ## Selected public projects
 
@@ -20,6 +24,4 @@ An exploration of discovering and presenting AI-agent skills. [Visit the site �
 
 ## What’s next
 
-I’m interested in backend and full-stack opportunities, thoughtful engineering teams and products that solve practical problems.
-
-An updated personal portfolio is in progress.
+I’m open to roles, projects and a new direction — in Da Nang or remotely. Technology is one of the tools I bring, not the only way I define my work.
