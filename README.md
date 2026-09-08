@@ -1,5 +1,5 @@
 <a href="https://minhhieu04.github.io/">
-  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/profile-banner-v2.png" width="100%" alt="Hiếu Trần — Ideas into useful things. People, Products, Possibilities." />
+  <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/profile-banner-v3.png" width="100%" alt="Hieu Tran — Ideas into useful things. People, Products, Possibilities." />
 </a>
 
 <p align="center">
@@ -13,11 +13,11 @@
   <a href="mailto:minhhieu.tran.mcs@gmail.com"><strong>LET’S TALK</strong></a>
 </p>
 
-## A curious mind. A practical approach.
+## Hi, I’m Hieu Tran.
 
-Hi, I’m **Hiếu**, a builder based in **Da Nang, Vietnam**. I connect people, ideas and technology to make everyday work a little better — through digital products, useful workflows and thoughtful experiments.
+I’m a **full-stack developer based in Da Nang, Vietnam**, working across frontend, backend and integrations. I contribute to business management software for organizations in France and customer-facing applications in Vietnam.
 
-I work across **frontend and backend**: shaping interfaces, connecting APIs and making business workflows work in practice. My interests go beyond one job title — I enjoy understanding a problem, making something tangible, and improving it through testing and feedback.
+On **ROBERP**, I work on React/Apollo interfaces and Django/GraphQL business logic. On **GL Lifestyle+ and GDOS**, I contribute to backend services, integrations and operational workflows. I’m also exploring learning and accessibility through personal projects, and I’m open to applying these skills in new domains.
 
 <p>
   <img src="https://raw.githubusercontent.com/minhhieu04/minhhieu04/main/assets/digital-products.svg" height="30" alt="Digital products" />
@@ -124,7 +124,7 @@ Open to **roles, projects and new domains** where curiosity, adaptability and pr
 <details>
 <summary>Đôi dòng bằng tiếng Việt</summary>
 
-Mình là Hiếu, hiện ở Đà Nẵng. Mình làm cả frontend và backend, thích tìm hiểu vấn đề và biến ý tưởng thành những thứ có ích. Với ROBERP — phần mềm quản lý doanh nghiệp cho thị trường Pháp — mình tham gia cả giao diện React/Apollo và nghiệp vụ Django/GraphQL. Mình cũng sẵn sàng học thêm để làm ở nhiều vai trò, ngành nghề khác nhau.
+Mình là Hieu Tran, lập trình viên full-stack tại Đà Nẵng. Với ROBERP — phần mềm quản lý doanh nghiệp cho thị trường Pháp — mình tham gia cả giao diện React/Apollo và nghiệp vụ Django/GraphQL. Với GL Lifestyle+ và GDOS, mình đóng góp vào backend, tích hợp hệ thống và các quy trình vận hành. Mình cũng phát triển dự án cá nhân về học tập, khả năng tiếp cận và sẵn sàng làm việc ở những lĩnh vực mới.
 
 [Xem portfolio và CV](https://minhhieu04.github.io/) · [Liên hệ với mình](mailto:minhhieu.tran.mcs@gmail.com)
 
